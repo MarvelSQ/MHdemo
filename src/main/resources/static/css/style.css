@@ -1,0 +1,10 @@
+html,
+body {
+    height: 100%;
+}
+body {
+    color: #fff;
+    text-align: center;
+    background: url("../img/homeback.jpg") no-repeat center center ;
+    background-size: cover;
+}
